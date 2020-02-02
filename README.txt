@@ -43,7 +43,7 @@ There are 8 c# scripts created in this project
 
 8(PlayButtonScripts.cs
                       this scripts handel the ui buttons used in the game sean 
-                      (eg) Play button ,pause button,mainmenu menu button retry buttom
+                      (eg) Play button ,pause button,main menu button retry buttom
 
 
 Thankyou 
