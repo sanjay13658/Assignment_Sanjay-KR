@@ -30,7 +30,7 @@ There are 8 c# scripts created in this project
 
   
 4(GamePlayController.cs
-                       this scripts swans the food and bomb at the map randomly 
+                       this scripts spawns the food and bomb at the map randomly 
 
 5(DeactivatePickUp.cs
                      this scripts deactive the food and bomb after some time of  intitate
